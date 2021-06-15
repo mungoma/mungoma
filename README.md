@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...blockchain technology,App and web development as well as AI
 - 🌱 I’m currently learning ...app and web development, native systems, AI, machine langauge and blockchain technologies.
 - 💞️ I’m looking to collaborate on ...blockchain or AI systems
-- 📫 How to reach me ...
+- 📫 How to reach me ... whatsapp +256757665667
 
 <!---
 mungoma/mungoma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
