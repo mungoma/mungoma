@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mungoma
 - 👀 I’m interested in ... web and mobile app development
-- 🌱 I’m currently learning ... mobile app development with flutter
-- 💞️ I’m looking to collaborate on ... laravel project
+- 🌱 I’m currently working with ntact
+- 💞️ I’m looking to collaborate on ... laravel projects
 - 📫 How to reach me ...mungomakevin256@gmail.com
 
 <!---
