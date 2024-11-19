@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mungoma
 - 👀 I’m interested in ... web and mobile app development
-- 🌱 I’m currently working with ntact
+- 🌱 I’m currently self employed
 - 💞️ I’m looking to collaborate on ... laravel projects
 - 📫 How to reach me ...mungomakevin256@gmail.com
 
